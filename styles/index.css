@@ -1,0 +1,17 @@
+.logo {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 48px;
+    /* or 160% */
+    letter-spacing: -0.02em;
+    color: #0A1B32;
+    margin-top: 37;
+    margin-bottom: 80;
+
+}
+
+.logo-dot {
+color: #A3DC00;
+}
